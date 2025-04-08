@@ -1,0 +1,43 @@
+# Исключить личные данные
+/data/*
+!data/example.md
+!data/sample.txt
+
+# Исключить файлы окружения
+.env
+venv/
+
+# Исключить векторную базу данных
+faiss_index/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_openai
+faiss-cpu
+sentence-transformers
+pypdf
+tiktoken
+python-dotenv
+markdown
+bs4
+unstructured
