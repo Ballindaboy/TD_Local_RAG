@@ -8,4 +8,5 @@ tiktoken
 python-dotenv
 markdown
 bs4
+PyQt6
 unstructured
